@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HalioTest</string>
+    <string name="resturant_type">restaurant</string>
+
+    <!-- Menu text -->
+
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_map">View Map</string>
+    
+    <!-- Dialog text -->
+    <string name="progress_title">Loading..</string>
+    <string name="progress_text">Finding Restaurants close by</string>
+    
+    <!-- Error text -->
+    
+    <string name="empty_place_list">Error finding places.</string>
+
+</resources>
